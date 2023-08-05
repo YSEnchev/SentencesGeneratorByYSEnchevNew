@@ -27,7 +27,6 @@ public class RandomSentences {
                     randomNouns, randomAdverbs, randomDetails);
             System.out.println("Click [Enter] to generate a new one");
 
-            break;
         }
 
     }
