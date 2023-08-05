@@ -67,7 +67,7 @@ public class RandomSentences {
         return word;
     }
 
-    public static String getRandomAdverbs(String[] words) {
+    public static String getRandomAdverbs(String[] words) {`
         Random random = new Random();
 
         int randomIndex = random.nextInt(words.length);
