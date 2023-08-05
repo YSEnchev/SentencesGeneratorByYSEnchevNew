@@ -28,6 +28,7 @@ public class RandomSentences {
             System.out.println("Click [Enter] to generate a new one");
 
             break;
+            
         }
 
     }
